@@ -7,6 +7,11 @@
   ## Expt5 : Scientific Calculator
   ## Expt6 : Git
   ## Expt7 : Process Killing
+  ## Expt8 : Lamp Stack
+  ## Expt9 : Virtualisation environment
+  ## Expt10: Package Management
   
+  ## perl
+  ## Kernel Compilation 
   ## CGPA
   ## Networking

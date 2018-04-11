@@ -1,17 +1,28 @@
-# FOSS LAB
+# FOSS LAB                                                                  
  
-  ## Expt1 : Linux Commands
-  ## Expt2 : File Permissions
-  ## Expt3 : Shell Programming
-  ## Expt4 : System Configurations
-  ## Expt5 : Scientific Calculator
-  ## Expt6 : Git
-  ## Expt7 : Process Killing
-  ## Expt8 : Lamp Stack
-  ## Expt9 : Virtualisation environment
-  ## Expt10: Package Management
+ ## Experiments :-
+   
+   ## Expt1 : Linux Commands
+   ## Expt2 : File Permissions
+   ## Expt3 : Shell Programming
+   ## Expt4 : System Configurations
+   ## Expt5 : Scientific Calculator
+   ## Expt6 : Git
+   ## Expt7 : Process Killing
+   ## Expt8 : PHP
+   ## Expt9 : Adv. Linux Commands
+   ## Expt10: Virtualisation environment
+   ## Expt11: Package Management System
+   ## Expt12: Installing Packages
   
-  ## perl
-  ## Kernel Compilation 
-  ## CGPA
-  ## Networking
+ ## Activities :- 
+   ## CGPA
+   ## Networking
+   ## Package Management
+   ## Perl
+   ## Lamp Stack
+   ## Kernel Compilation
+   
+### name : Anjitha Joys
+### class: CS4B
+### Roll no: 14

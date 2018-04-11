@@ -23,7 +23,7 @@
    ## Lamp Stack
    ## Kernel Compilation
    
-### Student Information   
+### Student Information :-   
   ### name : Anjitha Joys
   ### class: CS4B
   ### Roll no: 14
